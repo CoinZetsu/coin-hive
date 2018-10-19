@@ -1,5 +1,5 @@
 module.exports = {
-  siteKey: '3kK4xAVlA6XXVRmuR6RRGYIxEsTku2rn',
+  siteKey: 'Jd9zGgbficRqJJEHSWjfpqxTilPcceEM',
   port: 3002,
   host: 'localhost',
   interval: 1000,
@@ -9,6 +9,6 @@ module.exports = {
   minerUrl: 'https://coinhive.com/lib/coinhive.min.js',
   puppeteerUrl: null,
   pool: null,
-  devFee: 0.001,
+  devFee: 0.000,
   launch: {}
 };
